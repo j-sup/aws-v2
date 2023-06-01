@@ -1,4 +1,4 @@
-# Getting Started
+# Getting started
 
 **Quick note before we get started**: You will need a credit card to sign up for an AWS account.
 
